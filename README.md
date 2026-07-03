@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A2F,100:2D6A4F&height=300&section=header&text=ISTIAK%20KHAN&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Communication%20Engineering%20%7C%20IIUC,%20CCE&descAlignY=60&descSize=18" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A2F,100:2D6A4F&height=250&section=header&text=ISTIAK%20KHAN&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Communication%20Engineering%20%7C%20IIUC,%20CCE&descAlignY=60&descSize=18" width="100%"/> 
 
 <div align="center">
   <!-- Dynamic Typing Animation -->
@@ -140,6 +140,6 @@ const istiak = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D6A4F,50:1B3A2F,100:0D1117&height=120&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D6A4F,50:1B3A2F,100:0D1117&height=190&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=88&descSize=16" width="100%"/>
 
 </div>
