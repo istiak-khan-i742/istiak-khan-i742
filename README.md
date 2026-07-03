@@ -87,7 +87,7 @@ const istiak = {
 <img src="https://raw.githubusercontent.com/istiak-khan-i742/istiak-khan-i742/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<sub>⚙️ auto-generated daily by the <code>snake.yml</code> workflow — see setup notes below</sub>
+
 
 ---
 
@@ -96,7 +96,7 @@ const istiak = {
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<sub>⚙️ auto-refreshed every 6 hours by the <code>activity.yml</code> workflow — see setup notes below</sub>
+
 
 ---
 
