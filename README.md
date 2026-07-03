@@ -27,7 +27,6 @@ const istiak = {
     university: "International Islamic University Chittagong",
     focus: ["AI/ML", "IoT", "Embedded Systems", "Software Engineering"],
     philosophy: "改善 (Kaizen) — small, consistent improvement every day",
-    currentGoal: "MEXT Scholarship — Japan 🇯🇵"
 };
 ```
 
@@ -57,7 +56,6 @@ const istiak = {
 | **Java Setup Guide for Windows** | Step-by-step JDK installation guide with version-accurate, dynamically updated badges |
 | **CCE Matrix** | Semester-wise academic course portal — group project for Web Programming Sessional (CCE-1206), built with team *Kaizen Coders* |
 | **Banglish-to-Bengali Converter** | Web app using OpenRouter's API for live transliteration, with a glassmorphism UI |
-| **Half Wave Rectifier Lab Guide** | Self-contained, bilingual (English + বাংলা) interactive guide for Basic Electronics (CCE-1209) |
 | **ScanAI Document Scanner** | Camera-based document scanner with real-time edge detection |
 
 <sub>📝 swap in the rest of your repo links here as you publish them</sub>
@@ -104,7 +102,6 @@ const istiak = {
 | 📚 **Program** | Computer & Communication Engineering |
 | 🆔 **Student ID** | E253051 |
 | 📖 **Current Coursework** | Web Programming, Java OOP, Basic Electronics, Physics, Mathematics |
-| 🌍 **Target** | MEXT Scholarship — Postgraduate study in Japan |
 | 💬 **Languages** | Bengali (native), English (fluent) |
 
 ---
@@ -133,7 +130,6 @@ const istiak = {
 <div align="center">
 
 *"小さな一歩が、大きな変化を生む" — A small step creates a big change.*
-*ছোট একটি পদক্ষেপই বড় পরিবর্তনের শুরু。*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D6A4F,50:1B3A2F,100:0D1117&height=120&section=footer&reversal=true" width="100%"/>
 
