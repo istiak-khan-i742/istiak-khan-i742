@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A2F,100:2D6A4F&height=210&section=header&text=ISTIAK%20KHAN&fontSize=58&fontColor=E8F4EC&animation=fadeIn&fontAlignY=35&desc=Computer%20%26%20Communication%20Engineering%20%C2%B7%20IIUC&descAlignY=55&descSize=18&descColor=B87333" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A2F,100:2D6A4F&height=160&section=header&text=Developer%20Portfolio&fontSize=36&fontColor=E8F4EC&animation=fadeIn&fontAlignY=60&descColor=B87333" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=20&pause=1200&color=63D29A&center=true&vCenter=true&multiline=true&width=800&height=90&lines=AI%2FML+%C2%B7+IoT+%C2%B7+Embedded+Systems+%C2%B7+Software+Engineering;Building+toward+the+MEXT+Scholarship%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5;%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%A6%E0%A6%BF%E0%A6%A8+%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A7%81+%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A7%81+%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A7%87+%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A6%BE%E0%A6%87+%E0%A6%95%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%A8" />
 
