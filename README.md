@@ -119,7 +119,7 @@ const istiak = {
 
 ### 🌐 Want to see more?
 
-[![Portfolio](https://img.shields.io/badge/Open_Developer_Dashboard-22ff7a?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://istiak-khan-i742.github.io)
+[![Portfolio](https://img.shields.io/badge/Open_Developer_Dashboard-2D6A4F?style=for-the-badge&logo=googlechrome&logoColor=E8F4EC)](https://istiak-khan-i742.github.io)
 
 *Live GitHub stats · Projects · Activity — all in one place*
 
