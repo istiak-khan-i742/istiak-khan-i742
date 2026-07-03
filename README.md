@@ -25,7 +25,7 @@
 
 I'm a **Computer & Communication Engineering** student at **International Islamic University Chittagong (IIUC)** — student ID `E253051` — building an interdisciplinary skillset across **programming, AI/ML, IoT, and software engineering**.
 
-- 🎯 **Long-term goal:Pursue postgraduate studies internationally, building a strong foundation through hands-on work in AI, embedded systems, networking, and software development.
+- 🎯 **Long-term goal**:Pursue postgraduate studies internationally, building a strong foundation through hands-on work in AI, embedded systems, networking, and software development.
 - 👨‍🏫 **3 years of tutoring experience** — teaching math, science, and programming with a focus on practical, clear explanation.
 - 🌱 Inspired by the Japanese principle of **Kaizen (改善)** — continuous, incremental improvement — in both code and learning.
 - 🕌 Building devotional and academic tools that combine technical craft with personal values.
