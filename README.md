@@ -132,9 +132,6 @@ const istiak = {
 </div>
 
 ---
-
-<div align="center">
-
 ## 💭 **Quote of the Day**
 
 <div align="center">
