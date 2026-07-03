@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A2F,100:2D6A4F&height=160&section=header&text=Developer%20Portfolio&fontSize=36&fontColor=E8F4EC&animation=fadeIn&fontAlignY=60&descColor=B87333" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A2F,100:2D6A4F&height=300&section=header&text=ISTIAK%20KHAN&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Communication%20Engineering%20%7C%20IIUC,%20CCE&descAlignY=60&descSize=18" width="100%"/> 
 
-<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=20&pause=1200&color=63D29A&center=true&vCenter=true&multiline=true&width=800&height=90&lines=AI%2FML+%C2%B7+IoT+%C2%B7+Embedded+Systems+%C2%B7+Software+Engineering;Building+toward+the+MEXT+Scholarship%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5;%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%A6%E0%A6%BF%E0%A6%A8+%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A7%81+%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A7%81+%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A7%87+%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A6%BE%E0%A6%87+%E0%A6%95%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%A8" />
+<div align="center">
+  <!-- Dynamic Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Istiak+Khan+...+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Architect+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%9A%80;Building+Digital+Dreams+%E2%9C%A8" alt="Typing Animation" />
+</h1>
+</div>
 
 <a href="#"><img src="https://img.shields.io/badge/🎓_Student-CCE_%40_IIUC-1b3a2f?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="#"><img src="https://img.shields.io/badge/📍-Chattogram,_Bangladesh-0D1117?style=for-the-badge&logo=googlemaps&logoColor=B87333&labelColor=0D1117" /></a>
@@ -14,9 +19,13 @@
 
 ## 🌟 About Me
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&pause=3000&color=58A6FF&center=true&vCenter=true&width=1000&lines=A+passionate+developer+crafting+digital+experiences+with+precision+and+innovation" alt="About Me Typing" />
+</div>
+
 I'm a **Computer & Communication Engineering** student at **International Islamic University Chittagong (IIUC)** — student ID `E253051` — building an interdisciplinary skillset across **programming, AI/ML, IoT, and software engineering**.
 
-- 🎯 **Long-term goal:** earn the **MEXT Scholarship** for postgraduate study in Japan, backed by hands-on work in AI, embedded systems, networking, and software development.
+- 🎯 **Long-term goal:Pursue postgraduate studies internationally, building a strong foundation through hands-on work in AI, embedded systems, networking, and software development.
 - 👨‍🏫 **3 years of tutoring experience** — teaching math, science, and programming with a focus on practical, clear explanation.
 - 🌱 Inspired by the Japanese principle of **Kaizen (改善)** — continuous, incremental improvement — in both code and learning.
 - 🕌 Building devotional and academic tools that combine technical craft with personal values.
