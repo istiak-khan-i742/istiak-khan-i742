@@ -62,23 +62,20 @@ const istiak = {
 | Project | What it is |
 |---|---|
 | **[Java Sessional Lab Reports](https://github.com/istiak-khan-i742/Java-Sessional-E253051)** | Lab reports & documentation for Java OOP (CCE-1207) coursework |
-| **Java Setup Guide for Windows** | Step-by-step JDK installation guide with version-accurate, dynamically updated badges |
+| **[Java Setup Guide for Windows](https://github.com/istiak-khan-i742/java-setup-guide-windows)** | Step-by-step JDK installation guide with version-accurate, dynamically updated badges |
 | **CCE Matrix** | Semester-wise academic course portal — group project for Web Programming Sessional (CCE-1206), built with team *Kaizen Coders* |
 | **Banglish-to-Bengali Converter** | Web app using OpenRouter's API for live transliteration, with a glassmorphism UI |
 | **ScanAI Document Scanner** | Camera-based document scanner with real-time edge detection |
 
-<sub>📝 swap in the rest of your repo links here as you publish them</sub>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Developer Insights & Contribution Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=istiak-khan-i742&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=63D29A&icon_color=B87333&text_color=C9D1D9&ring_color=2D6A4F" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=istiak-khan-i742&theme=transparent&hide_border=true&background=0D1117&ring=2D6A4F&fire=B87333&currStreakLabel=63D29A&sideLabels=C9D1D9&dates=8B949E" width="48%" />
+<img src="https://ghinsights.vercel.app/api/insight?username=istiak-khan-i742&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiak-khan-i742&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=63D29A&text_color=C9D1D9" width="40%" />
 
 </div>
 
@@ -110,7 +107,7 @@ const istiak = {
 | 🏫 **University** | International Islamic University Chittagong (IIUC) |
 | 📚 **Program** | Computer & Communication Engineering |
 | 🆔 **Student ID** | E253051 |
-| 📖 **Current Coursework** | Web Programming, Java OOP, Basic Electronics, Physics, Mathematics |
+| 📖 **Current Coursework** | Web Programming, Java OOP, Basic Electronics, Physics, Mathematics, loading... |
 | 💬 **Languages** | Bengali (native), English (fluent) |
 
 ---
@@ -119,7 +116,7 @@ const istiak = {
 
 - 🔧 Polishing course-aligned tools (Java, web programming, electronics labs) into clean, well-documented repos
 - 🤖 Exploring AI-assisted development workflows (LLM tooling, MCP servers)
-- 📡 Strengthening foundations in IoT and embedded systems for the MEXT application
+- 📡 Strengthening foundations in IoT and embedded systems
 - 👨‍🏫 Continuing 1-on-1 tutoring in math, science, and programming
 
 ---
@@ -138,7 +135,13 @@ const istiak = {
 
 <div align="center">
 
-*"小さな一歩が、大きな変化を生む" — A small step creates a big change.*
+## 💭 **Quote of the Day**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20poetry.%20When%20you%20write%20it%20well,%20it%20becomes%20art.&author=Istiak%20Khan" />
+</div>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D6A4F,50:1B3A2F,100:0D1117&height=120&section=footer&reversal=true" width="100%"/>
 
